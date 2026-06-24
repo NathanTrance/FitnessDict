@@ -27,5 +27,8 @@ Training philosophy: do the minimum that produces the greatest benefit. When lif
 - Interval (I) training on bikes (good for aerobic thresholds)
 - Threshold (T) training on treadmills
 - Easy runs (E) at home training
-
 I and T were done regularly during your rehab, which yielded amazing results
+## Other training tips
+- 30 minutes is the bare minimum for triggering baseline adaptations (increased capillary density and fat oxidation)
+- 45-60 minutes is the sweet spot.
+- over one hour for joints and muscle endurance development.
