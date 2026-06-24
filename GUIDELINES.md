@@ -22,7 +22,7 @@ Training philosophy: do the minimum that produces the greatest benefit. When lif
 - If you feel strong, push close to failure and add a little weight or volume.
 - If you are stressed, tired, or short on time, cut the volume in half but keep the movements and the effort honest.
 - Never grind a rep with bad form. Stop the set when form starts to break.
-
+- Back-to-Back Hard Days: You can successfully string together two days of high-effort training because peak muscular discomfort typically hits 48 hours after the initial stress, rather than 24 hours.
 ## Training styles for running
 - Interval (I) training on bikes (good for aerobic thresholds)
 - Threshold (T) training on treadmills
